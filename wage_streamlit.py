@@ -115,4 +115,4 @@ fig = px.bar(df_mean_categ,
 st.plotly_chart(fig)
 
 st.text('出典：RESAS（地球経済分析システム）')
-st.text('本結果はRESAS（地球経済分析システム）を加工して作成'
+st.text('本結果はRESAS（地球経済分析システム）を加工して作成')
